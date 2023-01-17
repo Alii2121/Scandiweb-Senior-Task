@@ -39,8 +39,11 @@ then configue varnish to listen on custom port by making configuration file
 
 ## URL ALB-1443718690.us-east-1.elb.amazonaws.com
 ## IP Addresses 
-1- Varnish : 3.93.234.24
-2- Magento-2 : 3.91.218.20
+
+- Varnish : 3.93.234.24
+
+
+- Magento-2 : 3.91.218.20
 
 
 
